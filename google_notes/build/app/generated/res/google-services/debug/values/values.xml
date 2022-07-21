@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">223767903719-040p491q5g0t7fvg958qcchgtljkiotn.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">223767903719</string>
+    <string name="google_api_key" translatable="false">AIzaSyDjEAyZjooks04SNNQz28FnWHf6k9TsL2M</string>
+    <string name="google_app_id" translatable="false">1:223767903719:android:0a936f98edd3ff8ce89142</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDjEAyZjooks04SNNQz28FnWHf6k9TsL2M</string>
+    <string name="google_storage_bucket" translatable="false">keepnotes-98ca3.appspot.com</string>
+    <string name="project_id" translatable="false">keepnotes-98ca3</string>
+</resources>
